@@ -1,0 +1,11 @@
+Carlos Vega 
+Martin Moraga 
+Jose Rodriguez 
+
+
+
+carlos implemento el tda ABBp que ayudo a realizar el calculo de los costos para la resolucion del problema.
+
+jose hizo el main y genero diversos casos de prueba para la prueba del programa.
+
+Martin implemento el tda HashO y hashp, con todas las funciones correspondientes.

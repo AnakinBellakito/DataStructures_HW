@@ -1,0 +1,9 @@
+Carlos Vega 
+Martin Morada 
+Jose Rodriguez 
+
+Jose programos la funcion "cantidadPublica" la cual lee datos del binario y facilia uso para el resto del programa.
+
+Martin programos la funcion "cuentaEmpleado" la cual lee y procesa datos del txt ademas junto las 2 funciones y completo la "cuentaPersonas"
+
+Carlos programo la clase "arr_extensible" la cual crea dos arreglos extensible y aplica metodos sobre ellos.
